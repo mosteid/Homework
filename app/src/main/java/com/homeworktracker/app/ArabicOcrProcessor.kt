@@ -157,8 +157,8 @@ class ArabicOcrProcessor(private val context: Context) {
             .replace("ى", "ي")
             .replace("ؤ", "و")
             .replace("ئ", "ي")
-            .replace(Regex("[^\u0621-\u064A0-9a-zA-Z\s]"), " ")
-            .replace(Regex("\s+"), " ")
+           .replace(Regex("[^\u0621-\u064A0-9a-zA-Z\\s]"), " ")
+         .replace(Regex("\\s+"), " ")
             .trim()
             .lowercase()
     }
