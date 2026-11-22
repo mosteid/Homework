@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">متابعة الواجبات 3D</string>
+    <string name="notif_channel_name">الماسح الذكي لواتساب</string>
+    <string name="notif_title">مشاركة الشاشة نشطة</string>
+    <string name="notif_text">افتح مجموعة واتساب ومرر الرسائل لرصد الواجبات تلقائياً</string>
+</resources>

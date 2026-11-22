@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HomeworkTracker3D" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#4F46E5</item>
+        <item name="colorPrimaryVariant">#3730A3</item>
+        <item name="colorSecondary">#0D9488</item>
+        <item name="android:statusBarColor">#4338CA</item>
+    </style>
+</resources>
